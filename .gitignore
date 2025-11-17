@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+*.csv
+*.txt
+*.pkl
+сотрудники.*
+.DS_Store
+.mypy_cache/
+venv/
